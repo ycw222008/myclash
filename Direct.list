@@ -5,12 +5,14 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX, battle.net
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
+IP-CIDR,172.52.36.211/16,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
